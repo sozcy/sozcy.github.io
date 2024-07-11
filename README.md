@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sozcy</title>
-    <style type="text/css">
-        body {
-            margin: 0 auto 0 auto;
-            padding: 15px;
-            padding-top: 0px;
-            max-width: 1400px;
-            font-size: 16px;
-            font-family: "Microsoft YaHei", sans-serif;
-        }
-
-        table {
-            border-collapse: collapse;
-            border: #6e6b6b 1px solid;
-            width: 100%;
-            text-align: left;
-
-        }
-
-        th,
-        td {
-            
-            border: #6e6b6b 1px solid;
-            padding-left: 8px;
-            padding-top: 5px;
-            padding-bottom: 5px;
-            width: 33.33%;
-        }
-
-        a {
-            text-decoration: none;
-            text-underline-position: unset;
-        }
-    </style>
-</head>
-
-<body>
 
     <p>
         Hello！I am ZCY
@@ -144,10 +102,3 @@
         <!-- </tr> -->
 
     </table>
-
-
-
-
-</body>
-
-</html>
