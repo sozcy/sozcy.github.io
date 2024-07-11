@@ -10,6 +10,8 @@ Focus on Java Bigdata Development
 
 To contact me, please create an Issue directly in the corresponding Github repository or send an email to github#sozcy.com (replace # with @)
 
+请直接访问我的主页[https://sozcy.com](https://sozcy.com)
+
 ## Contents
 
 下面的内容包括介绍我的[开源项目](#开源项目)、[文章分组](#文章分组)和[最新发布的文章](#最新文章)
